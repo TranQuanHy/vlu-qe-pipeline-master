@@ -21,7 +21,7 @@ function login(username, password) {
     }
 
     // Tài khoản hợp lệ
-    if (username === "admin" && password === "9999") {
+    if (username === "admin" && password === "123") {
         return true;
     }
 
