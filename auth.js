@@ -28,5 +28,5 @@ function login(username, password) {
     // Sai username hoặc password
     return false;
 }
-
+// Updated login validation for feature branch
 module.exports = { login };
